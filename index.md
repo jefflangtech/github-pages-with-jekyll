@@ -2,4 +2,6 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is my first public GitHub page. So, Hello World!
+
+Actually it might not be my first public page but it's at least one that I know of right now...
