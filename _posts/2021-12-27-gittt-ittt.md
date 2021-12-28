@@ -1,3 +1,7 @@
+---
+title: "Wild Sauce of First Blog Posts"
+date: 2021-12-27
+---
 This is my first Git blog post. I have no idea how this is going to come out. I'm just typing...
 
 Do I use any markup?
